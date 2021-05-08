@@ -158,7 +158,7 @@
     "tslib": "1.11.1",
     "tslint": "6.1.0",
     "type-graphql": "0.17.6",
-    "typeorm": "0.2.24",
+    "typeorm": "0.2.25",
     "typescript": "3.8.3",
     "vuepress": "1.4.0",
     "vue-analytics": "5.22.1",
